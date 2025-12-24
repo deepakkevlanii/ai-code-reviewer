@@ -51,3 +51,7 @@ main .left .review{
 main .right{
   background-color: #f5f5f5;
 }
+
+.right div{
+  color: black;
+}

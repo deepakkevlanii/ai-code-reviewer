@@ -1,0 +1,10 @@
+Generate an OpenAI API Key
+Create your API key from the official OpenAI documentation:
+https://platform.openai.com/docs/quickstart
+
+Create or open the .env file
+Navigate to the server folder root and create a .env file if it does not already exist.
+
+Replace your_openai_api_key_here with your own OpenAI API key:
+add in .env
+OPENAI_API_KEY=your_openai_api_key_here
